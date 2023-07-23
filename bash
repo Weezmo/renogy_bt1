@@ -8,3 +8,8 @@ cd renogy_bt1
 
 # Run the example.py script downloaded by the Git clone command
 python3 example.py
+
+
+apt-get install python3-pip
+
+pip install gatt libscrc paho-mqtt
