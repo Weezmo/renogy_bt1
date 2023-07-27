@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo apt-get install git python3-pip
+sudo apt-get install git python3-pip python3-dbus
 pip install gatt libscrc paho-mqtt
 
 # Clone the Git repository
