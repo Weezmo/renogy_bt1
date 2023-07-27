@@ -1,5 +1,6 @@
 #!/bin/bash
 
+apt-get install git
 # Clone the Git repository
 git clone https://github.com/Weezmo/renogy_bt1.git
 
