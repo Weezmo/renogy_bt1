@@ -6,9 +6,10 @@ pip install gatt libscrc paho-mqtt
 # Clone the Git repository
 git clone https://github.com/Weezmo/renogy_bt1.git
 git clone https://github.com/fl4p/batmon-ha
+
+# Navigate to the cloned directory
 cd batmon-ha
 pip3 install -r requirements.txt
-
 
 # Navigate to the cloned directory
 cd
