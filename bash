@@ -17,3 +17,5 @@ cd renogy_bt1
 
 # Run the example.py script downloaded by the Git clone command
 python3 example.py
+
+# continue in different project for daly inclusion over serial
